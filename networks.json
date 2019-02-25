@@ -56,6 +56,18 @@
           "contract": "eosio.token",
           "decimals": 4
         }
+      },
+      {
+        "name":"UOS Testnet",
+        "host":"api-node-1.u.community",
+        "port":7888,
+        "protocol":"https",
+        "chainId":"61887243d4467f0061b462a63a3e40f3dce917ed7d7cc6a79ad9a1a3be7e5e1e",
+        "token":{
+          "symbol":"UOS",
+          "contract":"eosio.token",
+          "decimals":4
+        }
       }
    ],
    "Ethereum":[
